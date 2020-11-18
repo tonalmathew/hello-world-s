@@ -472,3 +472,47 @@ main()
 
 ```
 
+- ### Java
+
+```Java
+
+class Main
+{
+    public static void main (String[] args) 
+    {
+        System.out.println("Hello World");
+    }
+}
+
+```
+- ### c
+
+```c
+
+#include<stdio.h>
+void main()
+{
+	printf("Hello World");
+}
+
+```
+- ### Python
+
+```Python
+
+print("Hello World")
+
+```
+- ### C++
+
+```C++
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello World";
+    return(0);
+}
+
+```
