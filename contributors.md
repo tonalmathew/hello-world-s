@@ -6,11 +6,15 @@ _Follow the below steps to contribute_
 
 <pre>
 
-- ### language_name
+- ### Java
 
-```language_name
+```Java
 
-enter_your_code_here
+class helloWorld {
+public static void main() {
+System.out.println('Hello World!')
+ }
+}
 
 ```
 </pre>
