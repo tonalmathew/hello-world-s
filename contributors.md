@@ -6,11 +6,14 @@ _Follow the below steps to contribute_
 
 <pre>
 
-- ### language_name
+- ### golang
+```golang
 
-```language_name
-
-enter_your_code_here
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello World!")
+}
 
 ```
 </pre>
